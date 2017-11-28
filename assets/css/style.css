@@ -1,8 +1,28 @@
+body {
+    background: green;
+    text-align: center;
+    border-color: blue;
+    border-width: 100px; 
 
+}
+
+.container {
+    background: yellow;
+}
 
 
 
 h1 {
     color: red;
-    font-size: 30px;
+    font-size: 45px;
+}
+
+#game, #let {
+    color: blue;
+    font-size: 20px;
+
+}
+
+img {
+    border: 20px;
 }
